@@ -1,0 +1,6580 @@
+{
+  "items": [
+    {
+      "item_id": "i0",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i1",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i2",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i3",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i4",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i5",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i6",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i7",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i8",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i9",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i10",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i11",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i12",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i13",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i14",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i15",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i16",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i17",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i18",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i19",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i20",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i21",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i22",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i23",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i24",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i25",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i26",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i27",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i28",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i29",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i30",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i31",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i32",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i33",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i34",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i35",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i36",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i37",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i38",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i39",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i40",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i41",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i42",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i43",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i44",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i45",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i46",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i47",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i48",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i49",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i50",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i51",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i52",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i53",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i54",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i55",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i56",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i57",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i58",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i59",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i60",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i61",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i62",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i63",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i64",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i65",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i66",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i67",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i68",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i69",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i70",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i71",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i72",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i73",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i74",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i75",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i76",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i77",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i78",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i79",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i80",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i81",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i82",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i83",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i84",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i85",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i86",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i87",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i88",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i89",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i90",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i91",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i92",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i93",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i94",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i95",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i96",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i97",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i98",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i99",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i100",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i101",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i102",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i103",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i104",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i105",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i106",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i107",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i108",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i109",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i110",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i111",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i112",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i113",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i114",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i115",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i116",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i117",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i118",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i119",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i120",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i121",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i122",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i123",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i124",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i125",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i126",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i127",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i128",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i129",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i130",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i131",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i132",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i133",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i134",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i135",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i136",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i137",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i138",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i139",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i140",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i141",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i142",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i143",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i144",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i145",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i146",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i147",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i148",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i149",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i150",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i151",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i152",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i153",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i154",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i155",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i156",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i157",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i158",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i159",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i160",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i161",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i162",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i163",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i164",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i165",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i166",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i167",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i168",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i169",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i170",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i171",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i172",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i173",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i174",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i175",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i176",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i177",
+      "stratum": "c0",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i178",
+      "stratum": "c1",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i179",
+      "stratum": "c2",
+      "categories": [
+        "c0",
+        "c1",
+        "c2"
+      ],
+      "received_at": "2026-09-01T00:00:00Z"
+    }
+  ],
+  "assignments": [
+    {
+      "item_id": "i0",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i0",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i1",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i1",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i2",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i2",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i3",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i3",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i4",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i4",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i5",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i5",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i6",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i6",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i7",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i7",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i8",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i8",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i9",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i9",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i10",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i10",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i11",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i11",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i12",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i12",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i13",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i13",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i14",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i14",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i15",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i15",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i16",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i16",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i17",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i17",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i18",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i18",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i19",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i19",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i20",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i20",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i21",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i21",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i22",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i22",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i23",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i23",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i24",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i24",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i25",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i25",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i26",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i26",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i27",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i27",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i28",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i28",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i29",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i29",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i30",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i30",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i31",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i31",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i32",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i32",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i33",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i33",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i34",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i34",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i35",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i35",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i36",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i36",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i37",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i37",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i38",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i38",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i39",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i39",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i40",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i40",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i41",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i41",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i42",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i42",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i43",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i43",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i44",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i44",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i45",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i45",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i46",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i46",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i47",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i47",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i48",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i48",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i49",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i49",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i50",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i50",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i51",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i51",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i52",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i52",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i53",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i53",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i54",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i54",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i55",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i55",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i56",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i56",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i57",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i57",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i58",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i58",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i59",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i59",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i60",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i60",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i61",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i61",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i62",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i62",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i63",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i63",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i64",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i64",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i65",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i65",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i66",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i66",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i67",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i67",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i68",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i68",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i69",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i69",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i70",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i70",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i71",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i71",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i72",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i72",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i73",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i73",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i74",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i74",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i75",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i75",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i76",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i76",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i77",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i77",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i78",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i78",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i79",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i79",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i80",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i80",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i81",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i81",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i82",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i82",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i83",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i83",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i84",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i84",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i85",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i85",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i86",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i86",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i87",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i87",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i88",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i88",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i89",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i89",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i90",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i90",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i91",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i91",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i92",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i92",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i93",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i93",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i94",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i94",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i95",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i95",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i96",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i96",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i97",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i97",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i98",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i98",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i99",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i99",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i100",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i100",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i101",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i101",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i102",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i102",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i103",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i103",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i104",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i104",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i105",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i105",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i106",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i106",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i107",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i107",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i108",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i108",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i109",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i109",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i110",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i110",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i111",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i111",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i112",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i112",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i113",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i113",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i114",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i114",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i115",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i115",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i116",
+      "supplier": "s0",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i116",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i117",
+      "supplier": "s0",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i117",
+      "supplier": "s1",
+      "batch": "b1",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i118",
+      "supplier": "s0",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i118",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i119",
+      "supplier": "s0",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i119",
+      "supplier": "s1",
+      "batch": "b3",
+      "probability": 0.5,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i120",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i121",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i122",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i123",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i124",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i125",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i126",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i127",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i128",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i129",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i130",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i131",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i132",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i133",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i134",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i135",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i136",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i137",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i138",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i139",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i140",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i141",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i142",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i143",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i144",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i145",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i146",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i147",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i148",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i149",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i150",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i151",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i152",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i153",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i154",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i155",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i156",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i157",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i158",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i159",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i160",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i161",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i162",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i163",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i164",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i165",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i166",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i167",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i168",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i169",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i170",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i171",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i172",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i173",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i174",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i175",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i176",
+      "supplier": "s1",
+      "batch": "b0",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i177",
+      "supplier": "s2",
+      "batch": "b1",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i178",
+      "supplier": "s1",
+      "batch": "b2",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "item_id": "i179",
+      "supplier": "s2",
+      "batch": "b3",
+      "probability": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    }
+  ],
+  "reviews": [
+    {
+      "item_id": "i0",
+      "supplier": "s0",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i0",
+      "supplier": "s1",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i1",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i1",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i2",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i2",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i3",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i3",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i4",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i4",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i5",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i5",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i6",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i6",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i7",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i7",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i8",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i8",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i9",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i9",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i10",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i10",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i11",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i11",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i12",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i12",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i13",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i13",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i14",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i14",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i15",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i15",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i16",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i16",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i17",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i17",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i18",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i18",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i19",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i19",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i20",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i20",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i21",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i21",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i22",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i22",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i23",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i23",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i24",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i24",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i25",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i25",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i26",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i26",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i27",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i27",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i28",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i28",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i29",
+      "supplier": "s0",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i29",
+      "supplier": "s1",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i30",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i30",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i31",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i31",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i32",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i32",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i33",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i33",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i34",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i34",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i35",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i35",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i36",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i36",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i37",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i37",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i38",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i38",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i39",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i39",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i40",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i40",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i41",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i41",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i42",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i42",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i43",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i43",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i44",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i44",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i45",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i45",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i46",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i46",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i47",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i47",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i48",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i48",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i49",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i49",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i50",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i50",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i51",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i51",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i52",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i52",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i53",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i53",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i54",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i54",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i55",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i55",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i56",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i56",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i57",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i57",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i58",
+      "supplier": "s0",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i58",
+      "supplier": "s1",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i59",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i59",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i60",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i60",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i61",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i61",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i62",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i62",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i63",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i63",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i64",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i64",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i65",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i65",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i66",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i66",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i67",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i67",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i68",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i68",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i69",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i69",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i70",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i70",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i71",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i71",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i72",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i72",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i73",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i73",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i74",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i74",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i75",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i75",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i76",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i76",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i77",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i77",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i78",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i78",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i79",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i79",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i80",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i80",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i81",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i81",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i82",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i82",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i83",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i83",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i84",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i84",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i85",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i85",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i86",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i86",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i87",
+      "supplier": "s0",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i87",
+      "supplier": "s1",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i88",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i88",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i89",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i89",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i90",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i90",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i91",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i91",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i92",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i92",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i93",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i93",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i94",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i94",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i95",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i95",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i96",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i96",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i97",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i97",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i98",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i98",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i99",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i99",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i100",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i100",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i101",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i101",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i102",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i102",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i103",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i103",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i104",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i104",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i105",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i105",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i106",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i106",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i107",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i107",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i108",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i108",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i109",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i109",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i110",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i110",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i111",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i111",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i112",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i112",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i113",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i113",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i114",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i114",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i115",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i115",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i116",
+      "supplier": "s0",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i116",
+      "supplier": "s1",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i117",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i117",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i118",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i118",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i119",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i119",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i120",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i121",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i122",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i123",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i124",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i125",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i126",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i127",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i128",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i129",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i130",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i131",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i132",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i133",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i134",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i135",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i136",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i137",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i138",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i139",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i140",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i141",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i142",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i143",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i144",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i145",
+      "supplier": "s2",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i146",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i147",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i148",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i149",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i150",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i151",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i152",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i153",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i154",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i155",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i156",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i157",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i158",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i159",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i160",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i161",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i162",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i163",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i164",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i165",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i166",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i167",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i168",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i169",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i170",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i171",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i172",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i173",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i174",
+      "supplier": "s1",
+      "round": 1,
+      "label": "abstain",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i175",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i176",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i177",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i178",
+      "supplier": "s1",
+      "round": 1,
+      "label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i179",
+      "supplier": "s2",
+      "round": 1,
+      "label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-02T00:00:00Z"
+    }
+  ],
+  "expert_versions": [
+    {
+      "item_id": "i0",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i4",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i8",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i12",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i16",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i20",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i24",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i28",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i32",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i36",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i40",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i44",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i48",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i52",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i56",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i60",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i64",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i68",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i72",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i76",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i80",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i84",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i88",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i92",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i96",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i100",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i104",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i108",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i112",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i116",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i120",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i124",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i128",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i132",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i136",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i140",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i144",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i148",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i152",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i156",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i160",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i164",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i168",
+      "expert_label": "c0",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i172",
+      "expert_label": "c1",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i176",
+      "expert_label": "c2",
+      "revision": 1,
+      "received_at": "2026-09-03T00:00:00Z"
+    }
+  ]
+}
