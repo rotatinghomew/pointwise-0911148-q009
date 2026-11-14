@@ -6303,6 +6303,14 @@
       "label": "c1",
       "revision": 1,
       "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "item_id": "i1",
+      "supplier": "s0",
+      "round": 1,
+      "label": "c2",
+      "revision": 2,
+      "received_at": "2026-09-20T00:00:00Z"
     }
   ],
   "expert_versions": [
@@ -6575,6 +6583,12 @@
       "expert_label": "c2",
       "revision": 1,
       "received_at": "2026-09-03T00:00:00Z"
+    },
+    {
+      "item_id": "i4",
+      "expert_label": "c2",
+      "revision": 2,
+      "received_at": "2026-09-21T00:00:00Z"
     }
   ]
 }

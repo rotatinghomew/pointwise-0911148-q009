@@ -3,10 +3,10 @@
 本项目用于复核供应商一致性台的业务资料核对与分析留存。目前提供 `assignment_overlap` 覆盖核对，业务定义见 `docs/data-contract.md`。示例数据在本地生成，分析不访问远程业务系统。
 
 ## 运行环境
-Python 3.11.14；数值库固定在 `requirements.lock`。依赖安装属于环境准备，不属于服务启动；已经准备过的环境不再联网下载。
+Python 3.11.14；数值库固定在 `requirements.txt`。依赖安装属于环境准备，不属于服务启动；已经准备过的环境不再联网下载。
 
 ```sh
-python3 -m pip install -r requirements.lock
+python3 -m pip install -r requirements.txt
 python3 -m unittest discover -s tests -v
 python3 -m app demo
 python3 -m app serve
@@ -19,3 +19,9 @@ python3 -m app serve
 
 ## 快速查看
 `python3 -m app demo` 从本地数据执行当前覆盖核对并完整打印结果，一般数秒内完成。清理 `var` 可从干净状态重新运行，历史正式记录应另外留存。该命令展示的是当前已具备的核对能力，不代表已完成其他分析。
+
+## 容器与离线复现
+首次在运行前执行 `docker build -t local-analysis .` 准备锁定依赖。
+之后 `docker run --rm --network none local-analysis python3 -m unittest discover -s tests -v` 检查领域契约和真实 HTTP 工作流，`docker run --rm --network none local-analysis` 从全新容器输出当前业务核对。
+容器不访问业务网络，不需要外部数据库或第二个服务；`requirements.lock` 与正式依赖入口 `requirements.txt` 保留相同精确版本。
+当前测试和演示的执行上限各为80秒；新增分析应提供90秒以内可实际展示完整结果的入口，依赖准备在演示前完成。
