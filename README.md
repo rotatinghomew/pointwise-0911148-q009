@@ -3,7 +3,7 @@
 本项目用于复核供应商一致性台的业务资料核对与分析留存。目前提供 `assignment_overlap` 覆盖核对，业务定义见 `docs/data-contract.md`。示例数据在本地生成，分析不访问远程业务系统。
 
 ## 运行环境
-Python 3.11.14；数值库固定在 `requirements.txt`。依赖安装属于环境准备，不属于服务启动；已经准备过的环境不再联网下载。
+Python 3.11；数值库固定在 `requirements.txt`。Dockerfile 通过不可变镜像摘要锁定已验证的 Python 3.11.14，代码兼容控制台 Python 3.11.2。依赖安装属于环境准备，不属于服务启动；已经准备过的环境不再联网下载。
 
 ```sh
 python3 -m pip install -r requirements.txt
