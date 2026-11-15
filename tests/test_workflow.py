@@ -77,6 +77,8 @@ class WorkflowTests(unittest.TestCase):
                 result = json.load(response)
             with urlopen(base + '/v1/analyses/check') as response:
                 self.assertEqual(result, json.load(response))
+            with urlopen(base + '/v1/analyses/check/lineage') as response:
+                self.assertEqual(json.load(response)['request_id'], 'check')
             with self.assertRaises(HTTPError) as caught:
                 urlopen(Request(base + '/v1/analyses', data=b'{'))
             self.assertEqual(caught.exception.code, 400)

@@ -23,8 +23,12 @@ class Service:
         dataset = load(self.source)
         require_tables(dataset, TABLES)
         snapshot = visible(dataset, request['as_of'])
+        supersedes = request.get('supersedes')
+        if supersedes is not None and not isinstance(supersedes, str):
+            raise ValueError('supersedes 须为分析请求编号')
         result = OPERATIONS[operation](snapshot, request.get('options', {}))
-        return self.repository.remember(request['request_id'], request, snapshot, result)
+        return self.repository.remember(request['request_id'], request, snapshot, result,
+                                        supersedes=supersedes)
 
     def apply(self, request):
         return action(self.repository, request)

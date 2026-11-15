@@ -24,6 +24,12 @@ def create_server(service, host='127.0.0.1', port=0):
                 self.respond(200, {'status': 'ok'})
             elif route == '/v1/catalog':
                 self.respond(200, service.describe())
+            elif route.startswith('/v1/analyses/') and route.endswith('/lineage'):
+                try:
+                    request_id = unquote(route.split('/')[3:-1][0])
+                    self.respond(200, service.repository.lineage(request_id))
+                except KeyError as error:
+                    self.respond(404, {'error': str(error)})
             elif route.startswith('/v1/analyses/'):
                 try:
                     self.respond(200, service.repository.analysis(unquote(route.rsplit('/', 1)[1])))

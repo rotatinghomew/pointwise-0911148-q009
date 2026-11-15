@@ -1,6 +1,7 @@
 from collections import Counter
 from pathlib import Path
 
+from app.consensus import analyse, summarise
 from app.contracts import latest, load
 from app.repository import digest
 
@@ -21,7 +22,19 @@ def assignment_overlap(snapshot, options):
 def action(repository, request):
     raise ValueError('尚未登记该业务的可写操作')
 
-OPERATIONS = {'assignment_overlap': assignment_overlap}
+def category_consensus(snapshot, options):
+    """类别共识与供应商可靠度分析；完整明细随请求留存。"""
+    return analyse(snapshot, options)
+
+
+def category_consensus_summary(snapshot, options):
+    """同一分析的续约讨论精简视图，便于人工复核。"""
+    return summarise(analyse(snapshot, options))
+
+
+OPERATIONS = {'assignment_overlap': assignment_overlap,
+              'category_consensus': category_consensus,
+              'category_consensus_summary': category_consensus_summary}
 
 
 def seed_dataset():
